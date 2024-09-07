@@ -1,6 +1,6 @@
 # ENCS3330 Final Project: Efficient 4x4 Enhanced Pipeline Multiplier
 
-Welcome to our repository for the ENCS3330 – Summer Sem 2022-2023 Final Project at Birzeit University. This project involves the design of an efficient 4x4 enhanced pipeline multiplier, optimized for speed, area, and power.
+This project involves the design of an efficient 4x4 enhanced pipeline multiplier, optimized for speed, area, and power.
 
 ## Project Overview
 
