@@ -23,6 +23,6 @@ The goal of this project is to design an efficient 4x4 enhanced pipeline multipl
 
 - [Mohammad AbuShams](https://github.com/MohammadAbuShams)
 - [Mohammed Owda](https://github.com/M7mdOdeh1)
-- [Hamza Najjar]
+- Hamza Najjar
 
 
