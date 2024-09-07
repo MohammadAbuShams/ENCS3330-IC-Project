@@ -18,10 +18,6 @@ The goal of this project is to design an efficient 4x4 enhanced pipeline multipl
 - **Layout Design**: Focus on minimizing area and optimizing power and speed.
 - **Layout-based Simulation**: Validate the layout with respect to the schematic.
 
-## References and Resources
-
-- Utilize the design papers provided for "Design of Power Efficient 4x4 Multiplier Based On Various Power Optimizing Techniques" as a reference.
-- [View Design Resources and References](https://www.sciencedirect.com/journal/microelectronics-journal)
 
 ## Contributors
 
@@ -29,10 +25,4 @@ The goal of this project is to design an efficient 4x4 enhanced pipeline multipl
 - Mohammed Owda - 1200089
 - Hamza Najjar - 1192605
 
-## Additional Links and Resources
-
-- [Project Repository on GitHub](https://github.com/MohammadAbuShams/ENCS3330-IC-Project)
-- [Download IEEE Report Template](https://www.sciencedirect.com/journal/microelectronics-journal)
-
-For any inquiries or further details, please refer to the course instructor or visit the Electrical and Computer Engineering Department at Birzeit University.
 
