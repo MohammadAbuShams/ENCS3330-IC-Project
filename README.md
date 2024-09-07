@@ -21,8 +21,8 @@ The goal of this project is to design an efficient 4x4 enhanced pipeline multipl
 
 ## Contributors
 
-- Mohammad Abu Shams - 1200549
-- Mohammed Owda - 1200089
-- Hamza Najjar - 1192605
+- [Mohammad AbuShams](https://github.com/MohammadAbuShams)
+- [Mohammed Owda](https://github.com/M7mdOdeh1)
+- [Hamza Najjar]
 
 
